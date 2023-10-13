@@ -11,10 +11,9 @@ export const metadata: Metadata =
   icons: { icon: ["/images/cooking-chef-cap-icon.svg"] },
   
   openGraph: {
-    url: 'https://ranksridge.com/',
     images: [
       {
-        url: '/images/og-image-2.jpg',
+        url: 'https://epaper.ninadam.co.in/media/c600x315/2023-10/12033943-page-1.jpg',
         width: 600,
         height: 315,
       }
