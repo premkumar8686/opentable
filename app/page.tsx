@@ -12,7 +12,7 @@ export const metadata: Metadata =
     url: 'https://ranksridge.com/',
     images: [
       {
-        url: 'https://ranksridge.com//images/og-image-1.jpg',
+        url: '/images/og-image-1.jpg',
         width: 600,
         height: 315,
       }
